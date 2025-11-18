@@ -18,7 +18,7 @@ Key Insight: Discovered that long-term customers (20+ years tenure) represent th
 - <b>Matplotlib</b>
 - <b>Seaborn</b>
 
-<h2>Insights found:</h2>
+<h2>Insights</h2>
 
 
 Distribution of Gender: <br/>

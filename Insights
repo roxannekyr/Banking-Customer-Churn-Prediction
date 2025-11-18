@@ -38,3 +38,14 @@
   - CreditScore column mean and median are almost identical, meaning that customers are distributed close to score 700.
   - The proportion of customers who churn appears to be consistent, whether they have a 600 or 800 credit score.
 12. Majority of customers that haven't churned represent the 70%, while customers that churned represent the 30%.
+
+
+Churn rate by Years with the Bank: <br/>
+<img src="https://i.imgur.com/T4C04Fj.png" height="80%" width="80%" alt="Churn rate by Years with the Bank"/>
+<br />
+<br />
+
+Heatmap: <br/>
+<img src="https://i.imgur.com/XhRb3nw.png" height="80%" width="80%" alt="Heatmap"/>
+<br />
+<br />

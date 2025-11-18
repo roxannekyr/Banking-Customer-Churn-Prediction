@@ -1,4 +1,4 @@
-git commit -m "Changed README path"
+git commit -m "Bank Customer Churn Analysis & Feature Selection"
 git push origin main
 <h1>Bank Customer Churn Analysis & Feature Selection</h1>
 

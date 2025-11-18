@@ -3,7 +3,7 @@
 <h2>Description</h2>
 An end-to-end exploratory data analysis (EDA) project focusing on identifying risk factors for bank customer churn. This project involves rigorous data cleaning, outlier detection, and statistical feature selection to isolate high-impact variables.
 
-Key Highlights:
+Key Highlights: 
 
 Data Cleaning: Handled missing values via median imputation and standardized categorical inconsistencies.
 

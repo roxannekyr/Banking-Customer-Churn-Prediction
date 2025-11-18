@@ -1,5 +1,3 @@
-git commit -m "Bank Customer Churn Analysis & Feature Selection"
-git push origin main
 <h1>Bank Customer Churn Analysis & Feature Selection</h1>
 
 <h2>Description</h2>

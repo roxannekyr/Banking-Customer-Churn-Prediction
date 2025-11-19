@@ -1,4 +1,4 @@
-<h1>Bank Customer Churn Analysis & Feature Selection</h1>
+<h1>Bank Customer Churn Analysis & Feature Selection Project</h1>
 
 <h2>Description</h2>
 An end-to-end exploratory data analysis (EDA) project focusing on identifying risk factors for bank customer churn. This project involves rigorous data cleaning, outlier detection, and statistical feature selection to isolate high-impact variables.

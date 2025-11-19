@@ -136,7 +136,6 @@ Heatmap: <br/>
 <br />
 <br />
 
-Conclusions: <br/>
 <img src="https://i.imgur.com/vFrmbtg.png" height="80%" width="80%" alt="Conclusions_1"/>
 <br />
 <br />

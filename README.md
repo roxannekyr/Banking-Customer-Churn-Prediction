@@ -141,12 +141,10 @@ Conclusions: <br/>
 <br />
 <br />
 
-Conclusions: <br/>
 <img src="https://i.imgur.com/GHIb2oJ.png" height="80%" width="80%" alt="Conclusions_2"/>
 <br />
 <br />
 
-Conclusions: <br/>
 <img src="https://i.imgur.com/IdwHaxq.png" height="80%" width="80%" alt="Conclusions_3"/>
 <br />
 <br />

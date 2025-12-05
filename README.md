@@ -1,13 +1,13 @@
 <h1>Bank Customer Churn Analysis & Feature Selection Project</h1>
 
 <h2>Description</h2>
-An end-to-end exploratory data analysis (EDA) project focusing on identifying risk factors for bank customer churn. This project involves rigorous data cleaning, outlier detection, and statistical feature selection to isolate high-impact variables.
+An end-to-end exploratory data analysis (EDA) project focusing on identifying risk factors for bank customer churn. This project involves rigorous data cleaning, outlier detection, and statistical feature selection to isolate high-impact variables.<br />
+<br />
+Key Highlights: <br />
+<br />
+Data Cleaning: Handled missing values via median imputation and standardized categorical inconsistencies.<br />
 
-Key Highlights: 
-
-Data Cleaning: Handled missing values via median imputation and standardized categorical inconsistencies.
-
-Feature Engineering: Identified and removed non-predictive features (e.g., Gender, Income, Credit Score) based on low variance in churn ratios.
+Feature Engineering: Identified and removed non-predictive features (e.g., Gender, Income, Credit Score) based on low variance in churn ratios.<br />
 
 Key Insight: Discovered that long-term customers (20+ years tenure) represent the highest churn risk, contradicting the assumption that tenure equals loyalty.
 <h2>Tools used in this project:</h2>

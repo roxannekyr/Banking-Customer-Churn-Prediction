@@ -29,8 +29,8 @@
 8. Income column doesn't have any visible impact in our target column Churn and this is the reason why this column is dropped from dataset.
   - The ratio of the 'churn=yes' bar to the 'churn=no' bar— appears in Countplot similar across all four income groups.
   - Customers, regardless of their income group -Poor or Rich- are churning at a similar rate (Poor 30% and Rich 32%).
-9. Savings column doesn't appear to have a visible clear impact in our target column Churn but due to the outliers found 304 rows that werte not dropped, this column is kept in the dataset.
-  - More specifically, savings column has 304 rows appearing outliers, representing about 10% of Dataset.
+9. Savings column doesn't appear to have a big impact in our target column Churn.
+  - Savings column has 304 rows appearing outliers, representing about 10% of Dataset that were not dropped.
   - Customers, regardless of their savings group, per Counterplot are churning at a similarly high rate.
 10. Loan Amount column doesn't have any impact in our target column Churn, thus it is decided to be removed from Dataset.
   - Customers regardless of their loan amount, apper to churn at a similarly high rate.
